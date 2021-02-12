@@ -18,5 +18,9 @@
     "path": "^0.12.7",
     "pug": "^2.0.4",
     "react-share": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime-corejs3": "^7.12.13",
+    "core-js": "^3.8.3"
   }
 }
